@@ -161,7 +161,7 @@ img {
     padding-top: 3rem;
   }
 
-  .steps :last-of-type p {
+  .steps .container .row .col:last-child .card p {
     margin-bottom: 0;
   }
 
